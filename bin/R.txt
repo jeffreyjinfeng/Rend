@@ -246,12 +246,20 @@ int id action_context_bar 0x7f05001d
 int id action_menu_divider 0x7f050016
 int id action_menu_presenter 0x7f050017
 int id action_mode_close_button 0x7f050024
+<<<<<<< HEAD
 int id action_settings 0x7f05003c
+=======
+int id action_settings 0x7f05003d
+>>>>>>> b46314018513cb7e60b761b7b034a70ad561e728
 int id activity_chooser_view_content 0x7f050025
 int id always 0x7f05000b
 int id beginning 0x7f050011
 int id checkbox 0x7f05002d
 int id collapseActionView 0x7f05000d
+<<<<<<< HEAD
+=======
+int id container 0x7f05003c
+>>>>>>> b46314018513cb7e60b761b7b034a70ad561e728
 int id default_activity_button 0x7f050028
 int id dialog 0x7f05000e
 int id disableHome 0x7f050008
@@ -322,7 +330,12 @@ int layout abc_search_dropdown_item_icons_2line 0x7f030015
 int layout abc_search_view 0x7f030016
 int layout abc_simple_decor 0x7f030017
 int layout activity_main 0x7f030018
+<<<<<<< HEAD
 int layout support_simple_spinner_dropdown_item 0x7f030019
+=======
+int layout fragment_main 0x7f030019
+int layout support_simple_spinner_dropdown_item 0x7f03001a
+>>>>>>> b46314018513cb7e60b761b7b034a70ad561e728
 int menu main 0x7f0c0000
 int string abc_action_bar_home_description 0x7f0a0001
 int string abc_action_bar_up_description 0x7f0a0002
@@ -554,7 +567,11 @@ int styleable MenuItem_android_title 7
 int styleable MenuItem_android_titleCondensed 8
 int styleable MenuItem_android_visible 4
 int styleable MenuItem_showAsAction 13
+<<<<<<< HEAD
 int[] styleable MenuView { 0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e, 0x0101012f, 0x01010130, 0x01010131, 0x01010438 }
+=======
+int[] styleable MenuView { 0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e, 0x0101012f, 0x01010130, 0x01010131, 0x01010435 }
+>>>>>>> b46314018513cb7e60b761b7b034a70ad561e728
 int styleable MenuView_android_headerBackground 4
 int styleable MenuView_android_horizontalDivider 2
 int styleable MenuView_android_itemBackground 5
