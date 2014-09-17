@@ -5,4 +5,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.rend.MainActivity"
     tools:ignore="MergeRootFrame" />
+<<<<<<< HEAD
 
+=======
+>>>>>>> b46314018513cb7e60b761b7b034a70ad561e728
